@@ -1,0 +1,26 @@
+Arguments: 
+  /app/.heroku/node/bin/node /app/.heroku/yarn/bin/yarn.js add file:./modules/social-login/
+
+PATH: 
+  /app/.heroku/python/bin:/app/.heroku/node/bin:/app/.heroku/yarn/bin:/app/.apt/usr/bin:/app/.apt/usr/bin:/app/.heroku/python/bin:/usr/local/bin:/usr/bin:/bin:/app/.apt/usr/bin:/app/bin:/usr/local/bin:/usr/bin:/bin:/app/.chromedriver/bin:/app/bin:/app/node_modules/.bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.17.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, lstat '/tmp/projects/web_django/ahn_28092/modules/social-login'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
